@@ -14,12 +14,12 @@ Tabela de estudos:
 ![git-github-drawio](https://github.com/user-attachments/assets/7ccb19a0-614d-4124-90d4-68cbf8f69128)
 By: Anderson Soares
 
-Tecnologia utilizadas:
+ ##Tecnologia utilizadas:  
  -Git
  -Github
  -Visual Code
  
- ## Sobre mim!
+  ## Sobre mim!
  -Petrick Gomes Soares
  - 19 anos
  - Diagramas UML
